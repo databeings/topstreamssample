@@ -1,7 +1,7 @@
-channel,url,views
-Aaj Tak,https://www.youtube.com/watch?v=Nq2wYlWFucg,53151
-Aaj Tak,https://www.youtube.com/watch?v=ZoKv_Ip5-YI,12116
-News 18,https://www.youtube.com/watch?v=cOmTOXH0W7o,1023
-News 18,https://www.youtube.com/watch?v=XoSwUx-ptzI,4788
-Zee News,https://www.youtube.com/watch?v=flVYUzbI4xY,10342
-Zee News,https://www.youtube.com/watch?v=EjGG-GYoIvI,11220
+channel,url,embedurl,views
+Aaj Tak,https://www.youtube.com/watch?v=Nq2wYlWFucg,https://www.youtube.com/embed/Nq2wYlWFucg,53151
+Aaj Tak,https://www.youtube.com/watch?v=ZoKv_Ip5-YI,https://www.youtube.com/embed/ZoKv_Ip5-YI,12116
+News 18,https://www.youtube.com/watch?v=cOmTOXH0W7o,https://www.youtube.com/embed/cOmTOXH0W7o,1023
+News 18,https://www.youtube.com/watch?v=XoSwUx-ptzI,https://www.youtube.com/embed/xClyssNfcJ0,4788
+Zee News,https://www.youtube.com/watch?v=flVYUzbI4xY,https://www.youtube.com/embed/flVYUzbI4xY,10342
+Zee News,https://www.youtube.com/watch?v=EjGG-GYoIvI,https://www.youtube.com/embed/EjGG-GYoIvI,11220
